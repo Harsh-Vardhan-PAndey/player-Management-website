@@ -1,2 +1,3 @@
 # player-Management-website
-A responsive and user-friendly Player Management web application built using HTML5, Bootstrap, JavaScript, and VanillaJS. This project allows users to efficiently manage player information with features such as adding, editing, and deleting player records. The application leverages Bootstrap for styling and layout responsiveness, 
+A responsive and user-friendly Player Management web application built using HTML5, Bootstrap, JavaScript, and VanillaJS. This project allows users to efficiently manage player information with features such as adding, editing, and deleting player records. The application leverages Bootstrap for styling and layout responsiveness.
+Author - Harsh Vardhan Pandey.
